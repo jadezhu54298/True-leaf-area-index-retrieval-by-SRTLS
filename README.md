@@ -19,3 +19,5 @@ cd True-leaf-area-index-retrieval-by-SRTLS
 
 # Install packages
 pip install -r requirements.txt
+
+Leaf_area.py include main code of SRTLS, complete code will be publicly available after the paper is published
