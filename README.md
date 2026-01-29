@@ -14,7 +14,7 @@ To install the necessary dependencies, run:
 
 ```bash
 # Clone the repository
-git clone https://github.com/jadezhu54298/True-leaf-area-index-retrieval-by-SRTLS.git
+git clone https://github.com/Jade-Z1/True-leaf-area-index-retrieval-by-SRTLS.git
 cd True-leaf-area-index-retrieval-by-SRTLS
 
 # Install packages
