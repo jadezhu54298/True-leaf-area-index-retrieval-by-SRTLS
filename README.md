@@ -8,7 +8,7 @@ Official implementation of the paper [A novel true leaf area index (tLAI) retrie
 ## 🛠️ Installation
 
 ### Requirements
-The code has been tested with Python [3.x] and PyTorch [x.x.x].
+The code has been tested with Python [Python 3.12.11]
 
 To install the necessary dependencies, run:
 
