@@ -14,8 +14,8 @@ To install the necessary dependencies, run:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)[your-username]/[repo-name].git
-cd [repo-name]
+git clone https://github.com/jadezhu54298/True-leaf-area-index-retrieval-by-SRTLS.git
+cd True-leaf-area-index-retrieval-by-SRTLS
 
 # Install packages
 pip install -r requirements.txt
